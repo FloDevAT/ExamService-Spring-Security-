@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Final Maths Test",
+    "maximumPoints": 50,
+    "results": [
+      { "reachedPoints": 49, "student": { "name": "Max Mustermann" } },
+      { "reachedPoints": 45, "student": { "name": "Anna Schmidt" } },
+      { "reachedPoints": 38, "student": { "name": "Lukas Meier" } },
+      { "reachedPoints": 50, "student": { "name": "Julia Fischer" } },
+      { "reachedPoints": 41, "student": { "name": "Ben Weber" } },
+      { "reachedPoints": 46, "student": { "name": "Sophie Koch" } },
+      { "reachedPoints": 32, "student": { "name": "Paul Braun" } },
+      { "reachedPoints": 48, "student": { "name": "Lena Wolf" } }
+    ]
+  },
+  {
+    "title": "Physics Midterm",
+    "maximumPoints": 40,
+    "results": [
+      { "reachedPoints": 35, "student": { "name": "Tom Becker" } },
+      { "reachedPoints": 30, "student": { "name": "Lea Schneider" } },
+      { "reachedPoints": 28, "student": { "name": "Marlene Schäfer" } },
+      { "reachedPoints": 36, "student": { "name": "David Lange" } },
+      { "reachedPoints": 33, "student": { "name": "Mia Hartmann" } }
+    ]
+  },
+  {
+    "title": "History Quiz",
+    "maximumPoints": 20,
+    "results": [
+      { "reachedPoints": 18, "student": { "name": "Emma Wagner" } },
+      { "reachedPoints": 20, "student": { "name": "Felix Hofmann" } },
+      { "reachedPoints": 15, "student": { "name": "Luca Günther" } },
+      { "reachedPoints": 17, "student": { "name": "Johanna Böhm" } },
+      { "reachedPoints": 20, "student": { "name": "Nico Frank" } },
+      { "reachedPoints": 19, "student": { "name": "Laura Graf" } }
+    ]
+  },
+  {
+    "title": "Biology Final",
+    "maximumPoints": 60,
+    "results": [
+      { "reachedPoints": 58, "student": { "name": "Mia Krüger" } },
+      { "reachedPoints": 42, "student": { "name": "Tim Neumann" } },
+      { "reachedPoints": 60, "student": { "name": "Noah Zimmermann" } },
+      { "reachedPoints": 51, "student": { "name": "Hannah Albrecht" } },
+      { "reachedPoints": 47, "student": { "name": "Fabian Busch" } },
+      { "reachedPoints": 39, "student": { "name": "Emily Ludwig" } }
+    ]
+  },
+  {
+    "title": "Chemistry Lab Report",
+    "maximumPoints": 30,
+    "results": [
+      { "reachedPoints": 30, "student": { "name": "Niklas Engel" } },
+      { "reachedPoints": 28, "student": { "name": "Isabelle König" } },
+      { "reachedPoints": 26, "student": { "name": "Julian Schäfer" } },
+      { "reachedPoints": 29, "student": { "name": "Marie Dietrich" } },
+      { "reachedPoints": 25, "student": { "name": "Elias Heinrich" } }
+    ]
+  },
+  {
+    "title": "English Oral Exam",
+    "maximumPoints": 25,
+    "results": [
+      { "reachedPoints": 22, "student": { "name": "Nina Weiß" } },
+      { "reachedPoints": 24, "student": { "name": "Simon Paul" } },
+      { "reachedPoints": 25, "student": { "name": "Vanessa Arnold" } },
+      { "reachedPoints": 20, "student": { "name": "Jakob Lorenz" } },
+      { "reachedPoints": 23, "student": { "name": "Sarah Krüger" } },
+      { "reachedPoints": 21, "student": { "name": "Erik Kuhn" } }
+    ]
+  },
+  {
+    "title": "Computer Science Project",
+    "maximumPoints": 100,
+    "results": [
+      { "reachedPoints": 98, "student": { "name": "Kevin Maier" } },
+      { "reachedPoints": 95, "student": { "name": "Elena Berg" } },
+      { "reachedPoints": 88, "student": { "name": "Tobias Reuter" } },
+      { "reachedPoints": 92, "student": { "name": "Natalie Fuchs" } },
+      { "reachedPoints": 100, "student": { "name": "Daniel Horn" } },
+      { "reachedPoints": 85, "student": { "name": "Carla Schmitt" } },
+      { "reachedPoints": 76, "student": { "name": "Philipp Brandt" } }
+    ]
+  }
+]
