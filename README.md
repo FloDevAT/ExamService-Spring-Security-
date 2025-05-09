@@ -3,7 +3,7 @@
 ## Disclaimer
 
 This project only serves the purpose to prepare me and other students of HTBLA Kaindorf for the upcoming "Schriftliche Reifeprüfung Fachklausur".
-I am certanly aware that this code does not provide a reference for state-of-the-art Spring Security implementations and includes several
+I am certainly aware that this code does not provide a reference for state-of-the-art Spring Security implementations and includes several
 questionable design decisions!
 
 ## Description
