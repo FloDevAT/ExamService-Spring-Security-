@@ -16,7 +16,7 @@ Also the app implement JWT authentication using Spring Security.
 
 The application provides a REST-Api with several endpoints which are defined as follows:
 
-`POST /public/sigin`
+`POST /public/signin`
 
 Expected Payload:
 ```json
